@@ -30,13 +30,13 @@
     "ethjs-query": "0.3.2",
     "ethjs-rpc": "0.1.8",
     "ethjs-util": "0.1.4",
-    "truffle": "4.1.12",
-    "truffle-hdwallet-provider": "0.0.5"
+    "truffle": "5.11.5",
+    "truffle-hdwallet-provider": "1.0.17"
   },
   "devDependencies": {
-    "eslint": "4.15.0",
+    "eslint": "9.5.0",
     "eslint-config-airbnb-base": "12.1.0",
     "eslint-plugin-import": "2.8.0",
-    "solidity-coverage": "0.5.4"
+    "solidity-coverage": "0.8.12"
   }
 }
